@@ -36,7 +36,7 @@ Sou um desenvolvedor focado em sistemas backend e frontend. Tenho experiência c
 
 ## 🔗 Vamos nos conectar?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/username)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jossei-gabriel-vezono)
 - 🌐 [Meu portfólio](https://meu-portfolio.com)
 
 ![GitHub Followers](https://img.shields.io/github/followers/seu-usuario?label=Followers)
