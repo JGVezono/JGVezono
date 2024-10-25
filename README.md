@@ -44,7 +44,7 @@ Sou um desenvolvedor focado em sistemas backend e redes. Tenho experiência com 
 
 ## Contribuidores
 
-Thanks goes to these wonderful people:
+O agradecimento vai para essas pessoas maravilhosas:
 
 [![Jossei's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JGVezono&theme=radical)](https://github.com/JGVezono)
 
