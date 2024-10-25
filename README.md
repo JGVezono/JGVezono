@@ -8,7 +8,7 @@
 
 Sou um desenvolvedor focado em sistemas backend e redes. Tenho experiência com PHP, React Native, Mikrotik e estou sempre buscando aprender mais sobre desenvolvimento de sistemas escaláveis.
 
-## Tecnologias ![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+## Tecnologias
 
 - 🛠 **Linguagens:** JavaScript, TypeScript
 - 🌐 **Frontend:** React, Next.js
