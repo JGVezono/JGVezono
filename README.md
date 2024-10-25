@@ -43,7 +43,7 @@ Sou um desenvolvedor focado em sistemas backend e redes. Tenho experiência com 
 
 ![GitHub Followers](https://img.shields.io/github/followers/seu-usuario?label=Followers)
 ![GitHub Stars](https://img.shields.io/github/stars/seu-usuario?label=Stars)
-![Perfil Visitado](https://visitor-badge.glitch.me/badge?page_id=seu-usuario)
+![Perfil Visitado](https://visitor-badge.glitch.me/badge?page_id=JGVezono)
 
 ## Contribuidores
 
@@ -51,4 +51,4 @@ Thanks goes to these wonderful people:
 
 [![](https://img.shields.io/badge/all_contributors-1-orange.svg)](#)
 
-[![Jossei's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical)](https://github.com/JGVezono)
+[![Jossei's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JGVezono&theme=radical)](https://github.com/JGVezono)
