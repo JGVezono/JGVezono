@@ -10,8 +10,12 @@ Sou um desenvolvedor focado em sistemas backend e redes. Tenho experiência com 
 
 ## Tecnologias
 
-- 🛠 **Linguagens:** JavaScript, TypeScript
-- 🌐 **Frontend:** React, Next.js
+- 🛠 **Linguagens:**
+    - JavaScript
+    - TypeScript
+- 🌐 **Frontend:**
+    - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) React
+    - Next.js
 - 🔧 **Ferramentas de DevOps:** Docker, Mikrotik
 - 🗄️ **Bancos de dados:** MySQL, MongoDB
 
