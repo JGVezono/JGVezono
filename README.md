@@ -22,9 +22,9 @@ Sou um desenvolvedor focado em sistemas backend e redes. Tenho experiência com 
 
 ## 📊 Estatísticas
 
-[![Jossei's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)](https://github.com/JGVezono)
+[![Jossei's GitHub stats](https://github-readme-stats.vercel.app/api?username=JGVezono&show_icons=true&theme=radical)](https://github.com/JGVezono)
 
-[![Atividade de Jossei](https://activity-graph.herokuapp.com/graph?username=seu-usuario&theme=react-dark)](https://github.com/JGVezono)
+[![Atividade de Jossei](https://activity-graph.herokuapp.com/graph?username=JGVezono&theme=react-dark)](https://github.com/JGVezono)
 
 ## 🌱 O que estou aprendendo atualmente?
 
