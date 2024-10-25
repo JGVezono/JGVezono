@@ -24,7 +24,7 @@ Sou um desenvolvedor focado em sistemas backend e redes. Tenho experiência com 
 
 [![Jossei's GitHub stats](https://github-readme-stats.vercel.app/api?username=JGVezono&show_icons=true&theme=radical)](https://github.com/JGVezono)
 
-[![Atividade de Jossei](https://activity-graph.herokuapp.com/graph?username=JGVezono&theme=react-dark)](https://github.com/JGVezono)
+[![Jossei's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=JGVezono&theme=react-dark)](https://github.com/JGVezono)
 
 ## 🌱 O que estou aprendendo atualmente?
 
