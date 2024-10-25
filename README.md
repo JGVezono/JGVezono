@@ -41,6 +41,7 @@ Sou um desenvolvedor focado em sistemas backend e frontend. Tenho experiência c
 - 🌐 [Meu portfólio](https://meu-portfolio.com)
 
 ![GitHub Followers](https://img.shields.io/github/followers/JGVezono?label=Followers)
+
 ![GitHub Stars](https://img.shields.io/github/stars/JGVezono?label=Stars)
 
 ## 💬 Contribuidores
@@ -48,5 +49,3 @@ Sou um desenvolvedor focado em sistemas backend e frontend. Tenho experiência c
 O agradecimento vai para essas pessoas maravilhosas:
 
 [![Jossei's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JGVezono&theme=radical)](https://github.com/JGVezono)
-
-[![](https://img.shields.io/badge/all_contributors-1-orange.svg)](#)
