@@ -8,7 +8,7 @@
 
 Sou um desenvolvedor focado em sistemas backend e redes. Tenho experiência com PHP, React Native, Mikrotik e estou sempre buscando aprender mais sobre desenvolvimento de sistemas escaláveis.
 
-## Tecnologias
+## Tecnologias ![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 - 🛠 **Linguagens:** JavaScript, TypeScript
 - 🌐 **Frontend:** React, Next.js
@@ -22,7 +22,9 @@ Sou um desenvolvedor focado em sistemas backend e redes. Tenho experiência com 
 
 ## 📊 Estatísticas
 
-[![Jossei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight)](https://github.com/seu-usuario)
+[![Jossei's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)](https://github.com/JGVezono)
+
+[![Atividade de Jossei](https://activity-graph.herokuapp.com/graph?username=seu-usuario&theme=react-dark)](https://github.com/JGVezono)
 
 ## 🌱 O que estou aprendendo atualmente?
 
@@ -38,3 +40,15 @@ Sou um desenvolvedor focado em sistemas backend e redes. Tenho experiência com 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/username)
 - 🌐 [Meu portfólio](https://meu-portfolio.com)
+
+![GitHub Followers](https://img.shields.io/github/followers/seu-usuario?label=Followers)
+![GitHub Stars](https://img.shields.io/github/stars/seu-usuario?label=Stars)
+![Perfil Visitado](https://visitor-badge.glitch.me/badge?page_id=seu-usuario)
+
+## Contribuidores
+
+Thanks goes to these wonderful people:
+
+[![](https://img.shields.io/badge/all_contributors-1-orange.svg)](#)
+
+[![Jossei's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical)](https://github.com/JGVezono)
