@@ -22,9 +22,9 @@ Sou um desenvolvedor focado em sistemas backend e frontend. Tenho experiência c
 
 ## 📊 Estatísticas
 
-![Jossei's GitHub stats](https://github-readme-stats.vercel.app/api?username=JGVezono&show_icons=true&theme=radical&locale=pt-br)
+[![Jossei's GitHub stats](https://github-readme-stats.vercel.app/api?username=JGVezono&show_icons=true&theme=radical&locale=pt-br)](https://github.com/JGVezono)
 
-[![Jossei's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=JGVezono&locale=pt-br&theme=radical)]
+[![Jossei's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=JGVezono&locale=pt-br&theme=radical)](https://github.com/JGVezono)
 
 ## 🌱 O que estou aprendendo atualmente?
 
@@ -50,4 +50,4 @@ Sou um desenvolvedor focado em sistemas backend e frontend. Tenho experiência c
 
 O agradecimento vai para essas pessoas maravilhosas:
 
-[![Jossei's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JGVezono&theme=radical&locale=pt-br)]
+[![Jossei's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JGVezono&theme=radical&locale=pt-br)](https://github.com/JGVezono)
