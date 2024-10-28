@@ -4,10 +4,6 @@
 💻 Apaixonado por **backend development** e **front development**  
 🚀 Explorando o mundo de **React Native**, **React** e **Next JS**
 
-## Sobre Mim
-
-Sou um desenvolvedor focado em sistemas backend e frontend. Tenho experiência com React Native, React e Next JS e estou sempre buscando aprender mais sobre desenvolvimento de sistemas escaláveis.
-
 ## Tecnologias
 
 - 🛠 **Linguagens:** JavaScript, TypeScript
