@@ -50,4 +50,4 @@ Sou um desenvolvedor focado em sistemas backend e frontend. Tenho experiência c
 
 O agradecimento vai para essas pessoas maravilhosas:
 
-[![Jossei's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JGVezono&theme=radical)](https://github.com/JGVezono)
+[![Jossei's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JGVezono&theme=radical&locale=pt-br)](https://github.com/JGVezono)
