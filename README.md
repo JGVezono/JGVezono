@@ -23,6 +23,7 @@ Sou um desenvolvedor focado em sistemas backend e frontend. Tenho experiência c
 ## 📊 Estatísticas
 
 [![Jossei's GitHub stats](https://github-readme-stats.vercel.app/api?username=JGVezono&show_icons=true&theme=radical)](https://github.com/JGVezono)
+[![Jossei's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=JGVezono&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)](https://github.com/JGVezono)
 
 ## 🌱 O que estou aprendendo atualmente?
 
