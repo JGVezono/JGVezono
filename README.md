@@ -40,6 +40,7 @@ Sou um desenvolvedor focado em sistemas backend e frontend. Tenho experiência c
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jossei-gabriel-vezono)
 - ![Facebook](https://img.shields.io/badge/Facebook-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![TESTE](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)
 - 🌐 [Meu portfólio](https://meu-portfolio.com)
 
 ![GitHub Followers](https://img.shields.io/github/followers/JGVezono?label=Followers)
