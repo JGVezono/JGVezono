@@ -17,7 +17,7 @@ Sou um desenvolvedor focado em sistemas backend e frontend. Tenho experiência c
 
 ## Projetos em Destaque
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JGVezono&repo=Ping&theme=radical)](https://github.com/JGVezono/Ping)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JGVezono&repo=Ping&theme=radical%show_owner=true)](https://github.com/JGVezono/Ping)
 
 ## 📊 Estatísticas
 
