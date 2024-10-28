@@ -17,10 +17,7 @@ Sou um desenvolvedor focado em sistemas backend e frontend. Tenho experiência c
 
 ## Projetos em Destaque
 
-- [Sistema de Credenciamento](https://github.com/usuario/projeto1): Sistema de gerenciamento de credenciais para eventos.
-- [Controle de Exames Médicos](https://github.com/usuario/projeto2): Sistema para controle de exames médicos em clínicas.
-
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JGVezono&repo=Ping)](https://github.com/JGVezono/Ping)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JGVezono&repo=Ping&theme=radical)](https://github.com/JGVezono/Ping)
 
 ## 📊 Estatísticas
 
