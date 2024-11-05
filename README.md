@@ -11,7 +11,7 @@
 🌐 **Frontend:**
 
 - **Frameworks:** React.js, Next.js
-- **Mobile:** React Native, Flutter, Ionic
+- **Mobile:** React Native, Ionic
 - **Bibliotecas de UI:** Material-UI, Bootstrap, Tailwind CSS
 - **Ferramentas:** Webpack, Babel, ESLint, Prettier
 
