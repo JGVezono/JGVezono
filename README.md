@@ -4,7 +4,7 @@
 💻 Apaixonado por **backend development** e **front development**  
 🚀 Explorando o mundo de **React Native**, **React** e **Next JS**
 
-## Tecnologias
+> ## Tecnologias
 
 🛠 **Linguagens:** JavaScript, TypeScript, HTML5, CSS3, Python
 
