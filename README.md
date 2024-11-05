@@ -6,18 +6,18 @@
 
 ## Tecnologias
 
-🛠 **Linguagens:** JavaScript, TypeScript, HTML5, CSS3, SASS, LESS, Python, Dart
+🛠 **Linguagens:** JavaScript, TypeScript, HTML5, CSS3, Python
 
 🌐 **Frontend:**
 
-- Frameworks: React.js, Next.js
-- Mobile: React Native, Flutter, Ionic
-- Bibliotecas de UI: Material-UI, Bootstrap, Tailwind CSS
-- Ferramentas: Webpack, Babel, ESLint, Prettier
+- **Frameworks:** React.js, Next.js
+- **Mobile:** React Native, Flutter, Ionic
+- **Bibliotecas de UI:** Material-UI, Bootstrap, Tailwind CSS
+- **Ferramentas:** Webpack, Babel, ESLint, Prettier
 
 🖥️ **Backend:** Node.js (com TypeScript), PHP (Laravel), Python (FastAPI, Flask)
 
-🔧 **Ferramentas de DevOps:** Docker, Mikrotik, Git
+🔧 **Ferramentas de DevOps:** Mikrotik, Git
 
 🗄️ **Bancos de dados:** MySQL, Oracle, Firebase (Firestore), SQLite
 
