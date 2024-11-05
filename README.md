@@ -21,27 +21,27 @@
 
 🗄️ **Bancos de dados:** MySQL, Oracle, Firebase (Firestore), SQLite
 
-## Projetos em Destaque
+> ## Projetos em Destaque
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JGVezono&repo=Ping&theme=radical&show_owner=true)](https://github.com/JGVezono/Ping)
 
-## 📊 Estatísticas
+> ## 📊 Estatísticas
 
 [![Jossei's GitHub stats](https://github-readme-stats.vercel.app/api?username=JGVezono&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&locale=pt-br)](https://github.com/JGVezono)
 
 [![Jossei's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JGVezono&locale=pt-br&theme=radical)](https://github.com/JGVezono)
 
-## 🌱 O que estou aprendendo atualmente?
+> ## 🌱 O que estou aprendendo atualmente?
 
 - **React Native** para criar aplicativos mobile.
 - **React e Next JS** para criar website de forma rápida e escalonavel.
 
-## ✨ Curiosidades
+> ## ✨ Curiosidades
 
 - Gosto de resolver desafios em competições de programação!
 - Sempre busco aprimorar meus conhecimentos em programação, conheçendo novas tecnologias
 
-## 🔗 Vamos nos conectar?
+> ## 🔗 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jossei-gabriel-vezono)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/jossei.gabriel)
@@ -51,7 +51,7 @@
 
 ![GitHub Stars](https://img.shields.io/github/stars/JGVezono?label=Stars)
 
-## 💬 Contribuidores
+> ## 💬 Contribuidores
 
 O agradecimento vai para essas pessoas maravilhosas:
 
