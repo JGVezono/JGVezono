@@ -10,10 +10,10 @@
 
 🌐 **Frontend:**
 
-  - **Frameworks:** React.js, Next.js
-  - **Mobile:** React Native, Flutter, Ionic
-  - **Bibliotecas de UI:** Material-UI, Bootstrap, Tailwind CSS
-  - **Ferramentas:** Webpack, Babel, ESLint, Prettier
+    - **Frameworks:** React.js, Next.js
+    - **Mobile:** React Native, Flutter, Ionic
+    - **Bibliotecas de UI:** Material-UI, Bootstrap, Tailwind CSS
+    - **Ferramentas:** Webpack, Babel, ESLint, Prettier
 
 🖥️ **Backend:** Node.js (com TypeScript), PHP (Laravel), Python (FastAPI, Flask)
 
