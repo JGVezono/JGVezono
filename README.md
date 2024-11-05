@@ -6,10 +6,20 @@
 
 ## Tecnologias
 
-- 🛠 **Linguagens:** JavaScript, TypeScript
-- 🌐 **Frontend:** React Native, React e Next.js
-- 🔧 **Ferramentas de DevOps:** Mikrotik
-- 🗄️ **Bancos de dados:** MySQL, Oracle
+🛠 **Linguagens:** JavaScript, TypeScript, HTML5, CSS3, SASS, LESS, Python, Dart
+
+🌐 **Frontend:**
+
+Frameworks: React.js, Next.js
+Mobile: React Native, Flutter, Ionic
+Bibliotecas de UI: Material-UI, Bootstrap, Tailwind CSS
+Ferramentas: Webpack, Babel, ESLint, Prettier
+
+🖥️ **Backend:** Node.js (com TypeScript), PHP (Laravel), Python (FastAPI, Flask)
+
+🔧 **Ferramentas de DevOps:** Docker, Mikrotik, Git
+
+🗄️ **Bancos de dados:** MySQL, Oracle, Firebase (Firestore), SQLite
 
 ## Projetos em Destaque
 
